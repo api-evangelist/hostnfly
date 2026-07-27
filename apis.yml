@@ -1,9 +1,29 @@
 aid: hostnfly
 name: HostnFly
-description: 'HostnFly is a company surfaced as a portfolio company of partech and added to the API Evangelist
-  network as a stub for enrichment. Sector: Applicative SaaS. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  HostnFly is a French short-term-rental (Airbnb) concierge and property-management
+  company, founded in 2016 and headquartered in Paris. It manages the full lifecycle
+  of short-stay rentals on behalf of property owners: listing creation and optimization,
+  multi-platform distribution (Airbnb, Booking.com, Abritel), guest screening and 24/7
+  communication, check-in/check-out and key handling, hotel-grade housekeeping and linen,
+  maintenance, short-term-rental insurance, and dynamic revenue optimization. HostnFly
+  operates on a commission-only model (from ~20% of nightly revenue, no fixed fees) and
+  covers 340+ cities across metropolitan France and Corsica. It is a Partech portfolio
+  company. HostnFly publishes an llms.txt agent-discovery file but does not expose a
+  public developer API, SDKs, or OpenAPI at this time.
 url: https://raw.githubusercontent.com/api-evangelist/hostnfly/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/6931c7f6f6152e274c6c80da/6931c7f6f6152e274c6c8118_HostnFly_logo.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +32,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Applicative Saas
+- Property Management
+- Short-Term Rental
+- Vacation Rental
+- Airbnb
+- Hospitality
+- Concierge
+- Real Estate
+- France
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +53,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.hostnfly.com/
+- type: Pricing
+  url: https://www.hostnfly.com/tarifs
+- type: TermsOfService
+  url: https://www.hostnfly.com/legal/conditions
+- type: PrivacyPolicy
+  url: https://www.hostnfly.com/legal/confidentialite
+- type: Blog
+  url: https://www.hostnfly.com/blog
+- type: Support
+  url: https://aide.hostnfly.com/
+- type: Login
+  url: https://client.hostnfly.com/sign-in
+- type: LLMsTxt
+  url: llms/hostnfly-llms.txt
+- type: DomainSecurity
+  url: security/hostnfly-domain-security.yml
+- type: WellKnown
+  url: well-known/hostnfly-well-known.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,190 @@
+# HostnFly
+
+> HostnFly est une conciergerie Airbnb française qui gère de A à Z les locations courte durée pour les propriétaires : création et optimisation d'annonce, gestion des voyageurs, check-in et check-out, ménage hôtelier, maintenance, assurance spécifique et optimisation des revenus. Présente dans plus de 340 villes en France métropolitaine et Corse.
+
+HostnFly est une entreprise française basée à Paris, spécialisée dans la gestion locative courte durée pour propriétaires de biens publiés sur Airbnb, Booking, Abritel et autres plateformes. Rémunération au pourcentage des nuitées effectivement louées, sans frais fixes. L'équipe s'occupe de l'ensemble des opérations pour que le propriétaire perçoive un revenu passif sans intervenir.
+
+## Services
+
+- [Vue d'ensemble des services](https://hostnfly.com/services): synthèse des sept services proposés par la conciergerie
+- [Création et optimisation d'annonce Airbnb](https://hostnfly.com/services/annonce-airbnb): rédaction des descriptifs, photos professionnelles, paramétrage et publication multi-plateformes
+- [Gestion des voyageurs](https://hostnfly.com/services/gestion-voyageurs-airbnb): sélection des locataires, communication 24/7, gestion des litiges et des avis
+- [Check-in et check-out](https://hostnfly.com/services/check-in-out-airbnb): accueil physique ou remise autonome des clés, état des lieux entrant et sortant
+- [Ménage et linge de maison](https://hostnfly.com/services/menage-airbnb): ménage hôtelier entre chaque séjour, draps et linge de toilette fournis
+- [Maintenance du logement](https://hostnfly.com/services/maintenance-airbnb): petites réparations, coordination d'artisans, suivi préventif et curatif
+- [Assurance Airbnb](https://hostnfly.com/services/assurance-airbnb): couverture complémentaire spécifique à la location courte durée
+- [Optimisation des revenus](https://hostnfly.com/services/optimisation-revenus-location): tarification dynamique, yield management saisonnier
+
+## Tarifs et fonctionnement
+
+- [Tarifs](https://hostnfly.com/tarifs): structure de commission sur les nuitées, pas de frais fixes ni d'engagement long
+- [À propos et manifesto](https://hostnfly.com/a-propos/manifesto): vision, valeurs et positionnement de l'entreprise
+- [Espace presse et médias](https://hostnfly.com/ressources/presse): mentions presse, interviews, ressources médias
+- [Programme de parrainage](https://hostnfly.com/parrainage): parrainage entre propriétaires
+
+## Régions couvertes
+
+- [Île-de-France](https://hostnfly.com/regions/ile-de-france)
+- [Provence-Alpes-Côte d'Azur](https://hostnfly.com/regions/paca)
+- [Auvergne-Rhône-Alpes](https://hostnfly.com/regions/auvergne-rhone-alpes)
+- [Nouvelle-Aquitaine](https://hostnfly.com/regions/nouvelle-aquitaine)
+- [Bretagne](https://hostnfly.com/regions/bretagne)
+- [Normandie](https://hostnfly.com/regions/normandie)
+- [Occitanie](https://hostnfly.com/regions/occitanie)
+- [Pays de la Loire](https://hostnfly.com/regions/pays-de-la-loire)
+- [Grand Est](https://hostnfly.com/regions/grand-est)
+- [Hauts-de-France](https://hostnfly.com/regions/hauts-de-france)
+- [Corse](https://hostnfly.com/regions/corse)
+
+## Principales villes couvertes
+
+### Paris et Île-de-France
+
+- [Paris](https://hostnfly.com/conciergerie-airbnb/paris)
+- [Versailles](https://hostnfly.com/conciergerie-airbnb/versailles)
+- [Boulogne-Billancourt](https://hostnfly.com/conciergerie-airbnb/boulogne-billancourt)
+- [Courbevoie](https://hostnfly.com/conciergerie-airbnb/courbevoie)
+- [Asnières-sur-Seine](https://hostnfly.com/conciergerie-airbnb/asnieres-sur-seine)
+- [Compiègne](https://hostnfly.com/conciergerie-airbnb/compiegne)
+
+### Côte d'Azur
+
+- [Nice](https://hostnfly.com/conciergerie-airbnb/nice)
+- [Cannes](https://hostnfly.com/conciergerie-airbnb/cannes)
+- [Antibes](https://hostnfly.com/conciergerie-airbnb/antibes)
+- [Juan-les-Pins](https://hostnfly.com/conciergerie-airbnb/juan-les-pins)
+- [Saint-Tropez](https://hostnfly.com/conciergerie-airbnb/saint-tropez)
+- [Sainte-Maxime](https://hostnfly.com/conciergerie-airbnb/sainte-maxime)
+- [Cagnes-sur-Mer](https://hostnfly.com/conciergerie-airbnb/cagnes-sur-mer)
+- [Villefranche-sur-Mer](https://hostnfly.com/conciergerie-airbnb/villefranche-sur-mer)
+- [Beaulieu-sur-Mer](https://hostnfly.com/conciergerie-airbnb/beaulieu-sur-mer)
+- [Fréjus](https://hostnfly.com/conciergerie-airbnb/frejus)
+- [Saint-Raphaël](https://hostnfly.com/conciergerie-airbnb/saint-raphael)
+- [Villeneuve-Loubet](https://hostnfly.com/conciergerie-airbnb/villeneuve-loubet)
+
+### Provence et littoral varois
+
+- [Marseille](https://hostnfly.com/conciergerie-airbnb/marseille)
+- [Aix-en-Provence](https://hostnfly.com/conciergerie-airbnb/aix-en-provence)
+- [Avignon](https://hostnfly.com/conciergerie-airbnb/avignon)
+- [Toulon](https://hostnfly.com/conciergerie-airbnb/toulon)
+- [Hyères](https://hostnfly.com/conciergerie-airbnb/hyeres)
+- [Bandol](https://hostnfly.com/conciergerie-airbnb/bandol)
+- [Cassis](https://hostnfly.com/conciergerie-airbnb/cassis)
+- [Sanary-sur-Mer](https://hostnfly.com/conciergerie-airbnb/sanary-sur-mer)
+- [Six-Fours-les-Plages](https://hostnfly.com/conciergerie-airbnb/six-fours-les-plages)
+- [Le Lavandou](https://hostnfly.com/conciergerie-airbnb/le-lavandou)
+- [Bormes-les-Mimosas](https://hostnfly.com/conciergerie-airbnb/bormes-les-mimosas)
+- [Grimaud](https://hostnfly.com/conciergerie-airbnb/grimaud)
+
+### Grand Sud-Ouest et Pays Basque
+
+- [Bordeaux](https://hostnfly.com/conciergerie-airbnb/bordeaux)
+- [Toulouse](https://hostnfly.com/conciergerie-airbnb/toulouse)
+- [Arcachon](https://hostnfly.com/conciergerie-airbnb/arcachon)
+- [Biarritz](https://hostnfly.com/conciergerie-airbnb/biarritz)
+- [Anglet](https://hostnfly.com/conciergerie-airbnb/anglet)
+- [Bidart](https://hostnfly.com/conciergerie-airbnb/bidart)
+- [Saint-Jean-de-Luz](https://hostnfly.com/conciergerie-airbnb/saint-jean-de-luz)
+- [Ciboure](https://hostnfly.com/conciergerie-airbnb/ciboure)
+- [Hossegor](https://hostnfly.com/conciergerie-airbnb/hossegor)
+- [Capbreton](https://hostnfly.com/conciergerie-airbnb/capbreton)
+- [Bayonne](https://hostnfly.com/conciergerie-airbnb/bayonne)
+
+### Bretagne et façade atlantique
+
+- [Nantes](https://hostnfly.com/conciergerie-airbnb/nantes)
+- [Saint-Malo](https://hostnfly.com/conciergerie-airbnb/saint-malo)
+- [Dinard](https://hostnfly.com/conciergerie-airbnb/dinard)
+- [Dinan](https://hostnfly.com/conciergerie-airbnb/dinan)
+- [Vannes](https://hostnfly.com/conciergerie-airbnb/vannes)
+- [Lorient](https://hostnfly.com/conciergerie-airbnb/lorient)
+- [La Baule](https://hostnfly.com/conciergerie-airbnb/la-baule)
+- [La Rochelle](https://hostnfly.com/conciergerie-airbnb/la-rochelle)
+- [Île de Ré](https://hostnfly.com/conciergerie-airbnb/ile-de-re)
+- [Saint-Gilles-Croix-de-Vie](https://hostnfly.com/conciergerie-airbnb/saint-gilles-croix-de-vie)
+- [Les Sables-d'Olonne](https://hostnfly.com/conciergerie-airbnb/les-sables-d-olonne)
+- [Royan](https://hostnfly.com/conciergerie-airbnb/royan)
+
+### Normandie et Nord
+
+- [Deauville](https://hostnfly.com/conciergerie-airbnb/deauville)
+- [Trouville](https://hostnfly.com/conciergerie-airbnb/trouville)
+- [Honfleur](https://hostnfly.com/conciergerie-airbnb/honfleur)
+- [Cabourg](https://hostnfly.com/conciergerie-airbnb/cabourg)
+- [Caen](https://hostnfly.com/conciergerie-airbnb/caen)
+- [Le Havre](https://hostnfly.com/conciergerie-airbnb/le-havre)
+- [Bayeux](https://hostnfly.com/conciergerie-airbnb/bayeux)
+- [Lille](https://hostnfly.com/conciergerie-airbnb/lille)
+- [Le Touquet](https://hostnfly.com/conciergerie-airbnb/le-touquet)
+
+### Alpes et stations de ski
+
+- [Chamonix](https://hostnfly.com/conciergerie-airbnb/chamonix)
+- [Courchevel](https://hostnfly.com/conciergerie-airbnb/courchevel)
+- [Courchevel 1850](https://hostnfly.com/conciergerie-airbnb/courchevel-1850)
+- [Megève](https://hostnfly.com/conciergerie-airbnb/megeve)
+- [Val d'Isère](https://hostnfly.com/conciergerie-airbnb/val-d-isere)
+- [Val Thorens](https://hostnfly.com/conciergerie-airbnb/val-thorens)
+- [Méribel](https://hostnfly.com/conciergerie-airbnb/meribel)
+- [Tignes](https://hostnfly.com/conciergerie-airbnb/tignes)
+- [La Plagne](https://hostnfly.com/conciergerie-airbnb/la-plagne)
+- [Annecy](https://hostnfly.com/conciergerie-airbnb/annecy)
+- [Chambéry](https://hostnfly.com/conciergerie-airbnb/chambery)
+- [Châtel](https://hostnfly.com/conciergerie-airbnb/chatel)
+- [Briançon](https://hostnfly.com/conciergerie-airbnb/briancon)
+
+### Languedoc et Roussillon
+
+- [Montpellier](https://hostnfly.com/conciergerie-airbnb/montpellier)
+- [Nîmes](https://hostnfly.com/conciergerie-airbnb/nimes)
+- [Perpignan](https://hostnfly.com/conciergerie-airbnb/perpignan)
+- [Carcassonne](https://hostnfly.com/conciergerie-airbnb/carcassonne)
+- [Sète](https://hostnfly.com/conciergerie-airbnb/sete)
+- [La Grande-Motte](https://hostnfly.com/conciergerie-airbnb/la-grande-motte)
+- [Palavas-les-Flots](https://hostnfly.com/conciergerie-airbnb/palavas-les-flots)
+- [Cap d'Agde](https://hostnfly.com/conciergerie-airbnb/cap-d-agde)
+- [Canet-en-Roussillon](https://hostnfly.com/conciergerie-airbnb/canet-en-roussillon)
+
+### Autres métropoles
+
+- [Lyon](https://hostnfly.com/conciergerie-airbnb/lyon)
+- [Strasbourg](https://hostnfly.com/conciergerie-airbnb/strasbourg)
+- [Colmar](https://hostnfly.com/conciergerie-airbnb/colmar)
+
+## Ressources et blog
+
+- [Blog HostnFly](https://hostnfly.com/blog): plus de 280 articles sur la location courte durée, la fiscalité, la rentabilité et la réglementation Airbnb
+- [Investissement locatif](https://hostnfly.com/investissement-locatif): guide dédié aux propriétaires investisseurs
+- [Bien commercial et local commercial](https://hostnfly.com/bien-commercial): information sur la gestion de locaux commerciaux
+
+### Catégories du blog
+
+- [Législation](https://hostnfly.com/blog-tags/legislation): réglementation Airbnb, loi Le Meur, obligations des propriétaires
+- [Nos conseils](https://hostnfly.com/blog-tags/nos-conseils): guides pratiques pour hosts
+- [Le marché Airbnb](https://hostnfly.com/blog-tags/le-marche-airbnb): tendances et données du marché français
+- [Astuces et bons plans](https://hostnfly.com/blog-tags/astuces-et-bons-plans): conseils de gestion au quotidien
+- [Bail mobilité](https://hostnfly.com/blog-tags/bail-mobilite): dossiers sur le bail mobilité
+- [Idées voyage](https://hostnfly.com/blog-tags/idees-voyage): inspiration destinations
+- [Le propriétaire du mois](https://hostnfly.com/blog-tags/le-proprietaire-du-mois): portraits de clients propriétaires
+- [Local commercial](https://hostnfly.com/blog-tags/local-commercial): dossiers locaux commerciaux
+- [Nos partenaires](https://hostnfly.com/blog-tags/nos-partenaires): partenariats HostnFly
+- [Notre équipe](https://hostnfly.com/blog-tags/notre-equipe): présentation des collaborateurs
+- [Notre service](https://hostnfly.com/blog-tags/notre-service): dossiers sur l'offre de conciergerie
+- [Ouvrir une conciergerie](https://hostnfly.com/blog-tags/ouvrir-une-conciergerie): contenus pour entrepreneurs du secteur
+
+## Espace partenaires
+
+- [City Managers](https://hostnfly.com/city-managers): recrutement et réseau de responsables locaux
+- [Apporteurs d'affaires](https://hostnfly.com/leads-apporteurs-d-affaires): programme de partenariat pour apporteurs de leads
+
+## Informations légales
+
+- [Mentions légales](https://hostnfly.com/legal/mentions)
+- [Conditions générales](https://hostnfly.com/legal/conditions)
+- [Politique de confidentialité](https://hostnfly.com/legal/confidentialite)
+
+## Optional
+
+- [Sitemap XML complet](https://hostnfly.com/sitemap.xml): liste exhaustive des URLs indexables
+- [Index conciergerie par ville](https://hostnfly.com/conciergerie-airbnb): répertoire complet des 340+ villes couvertes
