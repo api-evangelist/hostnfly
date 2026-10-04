@@ -53,7 +53,7 @@ tags:
 - Airbnb
 - Hospitality
 - Concierge
-- Real-Estate
+- Real Estate
 - France
 tags_raw:
 - Company
@@ -66,6 +66,7 @@ tags_raw:
 - Concierge
 - Real Estate
 - France
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
